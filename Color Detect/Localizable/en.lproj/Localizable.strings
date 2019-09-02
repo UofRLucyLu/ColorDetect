@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ChickenTap
+
+  Created by Arthur Roolfs on 9/26/18.
+  Copyright © 2018 University of Rochester. All rights reserved.
+*/
+
+
+"str_start"                 = "Start";
+"str_score"                 = "Score";
+"str_time"                  = "Time";
